@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secim-sayaci/static/css/main.9b4b5ef1.css",
+    "main.js": "/secim-sayaci/static/js/main.acb8b472.js",
+    "static/js/787.7d1d20c5.chunk.js": "/secim-sayaci/static/js/787.7d1d20c5.chunk.js",
+    "index.html": "/secim-sayaci/index.html",
+    "main.9b4b5ef1.css.map": "/secim-sayaci/static/css/main.9b4b5ef1.css.map",
+    "main.acb8b472.js.map": "/secim-sayaci/static/js/main.acb8b472.js.map",
+    "787.7d1d20c5.chunk.js.map": "/secim-sayaci/static/js/787.7d1d20c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b4b5ef1.css",
+    "static/js/main.acb8b472.js"
+  ]
+}

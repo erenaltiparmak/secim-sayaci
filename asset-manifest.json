@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/secim-sayaci/static/css/main.9b4b5ef1.css",
-    "main.js": "/secim-sayaci/static/js/main.44ce9bbd.js",
+    "main.js": "/secim-sayaci/static/js/main.5931de90.js",
     "static/js/787.7d1d20c5.chunk.js": "/secim-sayaci/static/js/787.7d1d20c5.chunk.js",
     "index.html": "/secim-sayaci/index.html",
     "main.9b4b5ef1.css.map": "/secim-sayaci/static/css/main.9b4b5ef1.css.map",
-    "main.44ce9bbd.js.map": "/secim-sayaci/static/js/main.44ce9bbd.js.map",
+    "main.5931de90.js.map": "/secim-sayaci/static/js/main.5931de90.js.map",
     "787.7d1d20c5.chunk.js.map": "/secim-sayaci/static/js/787.7d1d20c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b4b5ef1.css",
-    "static/js/main.44ce9bbd.js"
+    "static/js/main.5931de90.js"
   ]
 }
